@@ -1,6 +1,14 @@
 # transformers_tutorial
 
+Ordem de Leitura recomendada:
+
+1) AIAYN.ipynb
+2) ViT_Tuto
+3) Swin_teste
+
+
 Referências
+
 https://arxiv.org/pdf/1706.03762
 
 https://medium.com/@shravankoninti/history-of-attention-mechanism-an-introduction-to-self-attention-with-visuals-code-explained-a1529c79923e
