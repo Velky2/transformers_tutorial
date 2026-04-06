@@ -3,8 +3,9 @@
 Ordem de Leitura recomendada:
 
 1) AIAYN.ipynb
-2) ViT_Tuto
-3) Swin_teste
+2) Transformers_treino
+3) ViT_Tuto
+4) Swin_teste
 
 
 Referências
