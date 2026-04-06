@@ -1,6 +1,6 @@
 # transformers_tutorial
 
-Ordem de Leitura recomendada:
+Todos os notebooks formam uma linha de estudos única, eles foram divididos por questão de melhor organização e redução de tamanho de cada um. Logo, para melhor entendimento teórico, é fortemente recomendado seguir a ordem:
 
 1) AIAYN_tuto.ipynb
 2) Transformers_treino.ipynb
